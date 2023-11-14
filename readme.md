@@ -6,4 +6,4 @@
 </div>
 
 # Notable work:
-- [Translation](./works/TRANSLATION.md)
+- [Software Translation](./works/TRANSLATION.md)
