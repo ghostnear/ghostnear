@@ -1,6 +1,4 @@
-## Dead account.
-
-Check [this one](https://github.com/solomonarul) instead.
+## Now alive again
 
 # Notable work:
 - [Software Translation](./works/TRANSLATION.md)
