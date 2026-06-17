@@ -1,4 +1,2 @@
-## Now alive again
+## I remembered my password yay
 
-# Notable work:
-- [Software Translation](./works/TRANSLATION.md)
